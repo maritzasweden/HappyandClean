@@ -20,14 +20,13 @@ header {
 }
 
 nav ul {
-    background-color:indianred;
+    background-color:rgb(226, 126, 126);
     color: #fff;
     text-align: center;
     padding: 10px;
 }
 
 nav ul li {
-    color: #fff;
     display: inline;
     margin-right: 10px;
 }
